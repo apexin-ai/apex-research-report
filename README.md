@@ -26,7 +26,7 @@ Evaluated as ordinary conference submissions, these papers achieved review score
 
 ## Report
 
-**[Read the full report (PDF)](CompressBench_Research_Proposal.pdf)**
+**[Read the full report (PDF)](Apex_Research_Report.pdf)**
 
 ## About Apex Intelligence
 
