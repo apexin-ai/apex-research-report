@@ -33,6 +33,7 @@ Evaluated as ordinary conference submissions, these papers achieved review score
 Apex Intelligence is a next-generation foundation model research lab built around native self-evolving AI systems for open-ended scientific discovery. We pursue AI systems capable of closed-loop cognitive iteration that autonomously refine reasoning, generate cross-domain hypotheses, and expand the frontier of understanding.
 
 - **Website:** [https://www.apexin.ai/](https://www.apexin.ai/)
+- **Waitlist:** [https://waitlist.apexin.ai/](https://waitlist.apexin.ai/)
 - **Contact:** contact@apexin.ai
 
 ## Statement
