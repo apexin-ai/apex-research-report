@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="Apex Intelligence" width="360"/>
+  <img src="logo.png" alt="Apex Intelligence" width="360"/>
 </p>
 
 # AI Can Publish at Top AI Conferences Now!
